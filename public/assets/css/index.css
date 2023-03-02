@@ -1,0 +1,183 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&family=Work+Sans:wght@800&display=swap");
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    padding: 15px;
+    background-color: #ddc3c3;
+}
+
+.containerya {
+    margin: 20px auto;
+    max-width: 1000px;
+    background-color: white;
+    padding: 0;
+}
+
+.form-control5 {
+    height: 25px;
+    width: 150px;
+    border: none;
+    border-radius: 0;
+    font-weight: 800;
+    padding: 0 0 5px 0;
+    background-color: transparent;
+    box-shadow: none;
+    outline: none;
+    border-bottom: 2px solid #ccc;
+    margin: 0;
+    font-size: 14px;
+}
+
+.form-control:focus {
+    box-shadow: none;
+    border-bottom: 2px solid #ccc;
+    background-color: transparent;
+}
+
+.form-control1 {
+    font-size: 14px;
+    height: 20px;
+    width: 100%;
+    border: none;
+    border-radius: 0;
+    font-weight: 650;
+    padding: 0 0 5px 0;
+    background-color: transparent;
+    box-shadow: none;
+    outline: none;
+    border-bottom: 2px solid #ccc;
+    margin: 0;
+}
+
+.form-control2 {
+    font-size: 14px;
+    height: 20px;
+    width: 55px;
+    border: none;
+    border-radius: 0;
+    font-weight: 800;
+    padding: 0 0 5px 0;
+    background-color: transparent;
+    box-shadow: none;
+    outline: none;
+    border-bottom: 2px solid #ccc;
+    margin: 0;
+}
+
+.form-control2:focus {
+    box-shadow: none;
+    border-bottom: 2px solid #ccc;
+    background-color: transparent;
+}
+
+.form-control3 {
+    font-size: 14px;
+    height: 20px;
+    width: 100px;
+    border: none;
+    border-radius: 0;
+    font-weight: 800;
+    padding: 0 0 5px 0;
+    background-color: transparent;
+    box-shadow: none;
+    outline: none;
+    border-bottom: 2px solid #ccc;
+    margin: 0;
+}
+
+.form-control3:focus {
+    box-shadow: none;
+    border-bottom: 2px solid #ccc;
+    background-color: transparent;
+}
+
+p {
+    margin: 0;
+}
+
+#ck {
+    width: 100%;
+    height: 100%;
+    object-fit: fill;
+}
+
+.text-muted {
+    font-size: 10px;
+}
+
+.textmuted {
+    color: #6c757d;
+    font-size: 13px;
+}
+
+.fs-14 {
+    font-size: 14px;
+}
+
+.btn.btn-primary.ya {
+    width: 100%;
+    height: 55px;
+    border-radius: 0;
+    padding: 13px 0;
+    background-color: black;
+    border: none;
+    font-weight: 600;
+}
+
+.btn.btn-primary:hover .fas {
+    transform: translateX(10px);
+    transition: transform 0.5s ease;
+}
+
+.fw-900 {
+    font-weight: 900;
+}
+
+::placeholder {
+    font-size: 12px;
+}
+
+.ps-30 {
+    padding-left: 30px;
+}
+
+.h6 {
+    font-family: "Work Sans", sans-serif !important;
+    font-weight: 800 !important;
+}
+
+.textmuted,
+h5,
+.text-muted {
+    font-family: "Poppins", sans-serif;
+}
+
+.bawah {
+    padding: 7px;
+}
+
+.stars {
+    margin-right: 7px;
+    margin-top: 7px;
+}
+
+.section {
+    border-bottom: 3px !important;
+}
+
+.main-banner {
+    border-bottom: 3px !important;
+}
+
+.section-ganjil {
+    background-color: #2a2a2a;
+}
+
+h2.font-putih {
+    color: white !important;
+}
